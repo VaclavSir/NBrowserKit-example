@@ -20,7 +20,8 @@ class SignPresenter extends BasePresenter
 	{
 		$form = $this->factory->create();
 		$form->onSuccess[] = function ($form) {
-			$form->getPresenter()->redirect('Homepage:');
+			$this->flashMessage('You have been sucessfully signed in.');
+			$this->redirect('Homepage:');
 		};
 		return $form;
 	}
