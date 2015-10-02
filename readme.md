@@ -2,6 +2,10 @@
 
 This example is based on [Nette Sandbox](https://github.com/nette/sandbox), a pre-packaged and pre-configured Nette Framework application that one can use as the skeleton for a new applications.
 
+## Look at the example test
+
+It's located at [tests/ExampleTest.phpt](https://github.com/VaclavSir/NBrowserKit-example/blob/master/tests/ExampleTest.phpt).
+
 ## Installing
 
 ### Install dependencies using Composer:
