@@ -1,5 +1,7 @@
 # NBrowserKit example
 
+This is a demo of [NBrowserKit](https://github.com/VaclavSir/NBrowserKit), which is an integration of BrowserKit into Nette Framework.
+
 This example is based on [Nette Sandbox](https://github.com/nette/sandbox), a pre-packaged and pre-configured Nette Framework application that one can use as the skeleton for a new applications.
 
 ## Look at the example test
